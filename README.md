@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Rajesh Reddy 👋
 
-<!--
-**rajeshhreddyyy/rajeshhreddyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech Student at Malla Reddy University
 
-Here are some ideas to get you started:
+ Aspiring Software Engineer with a strong interest in Data Structures & Algorithms, Java Development, Backend Engineering, and System Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* Java
+* Data Structures & Algorithms
+* Spring Boot
+* Database Management Systems
+* System Design Fundamentals
+
+## Areas of Interest
+
+* Data Structures & Algorithms
+* Backend Development
+* System Design
+* Software Engineering
+
+## Current Goals
+
+* Solve 500+ DSA Problems
+* Master Java and Spring Boot
+* Build Industry-Level Projects
+* Prepare for Software Engineering Roles
+* Secure a Placement at Top Product-Based Companies
+
+## Tech Stack
+
+* Java
+* SQL
+* Git & GitHub
+* Spring Boot (Learning)
+* Data Structures & Algorithms
+
+## Connect With Me
+
+* LeetCode: https://leetcode.com/u/Rajesh_Reddy96/
+* LinkedIn: https://www.linkedin.com/in/salavemula-rajesh-reddy-078418315/
+* Email: rajeshreddysalavemula@gmail.com
+
+"Consistency compounds. Every day of learning brings me one step closer to my goals."
