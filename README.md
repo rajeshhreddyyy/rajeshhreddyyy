@@ -11,6 +11,7 @@
 * Spring Boot
 * Database Management Systems
 * System Design Fundamentals
+* Data Analytics
 
 ## Areas of Interest
 
@@ -18,6 +19,7 @@
 * Backend Development
 * System Design
 * Software Engineering
+* Data Analytics
 
 ## Current Goals
 
